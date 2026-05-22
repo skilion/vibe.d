@@ -16,7 +16,6 @@ docs.json
 __dummy.html
 
 .dub
-dub.selections.json
 
 # Auto-generated
 tls/openssl_version.d
